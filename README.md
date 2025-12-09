@@ -1,2 +1,5 @@
-# onlineShopWeb
-Seoke Id Online Shopping Website is individual class project that applied basic php, html, css, and javascript. In this website I'm learning to connect API for ship rate and show up in front-end using javascript
+# SEOKE ID Online Shopping Website
+Website for online shopping SEOKE ID with php, html, css, and javascript basic
+
+Website Preview
+![Katalog Preview](https://github.com/gilangAbdul/SeokeID_Web/blob/main/img/image.png)
